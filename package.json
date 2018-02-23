@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajukco/100daysofcode-bot.git"
+    "url": "git+https://github.com/pcodex"
   },
   "keywords": [
     "100daysofcode",
@@ -21,10 +21,10 @@
     "twitter",
     "nodejs"
   ],
-  "author": "Andrew Raynes",
-  "license": "MIT",
+  "author": "prabhu m",
+  "license": "GPL",
   "bugs": {
-    "url": "https://github.com/ajukco/100daysofcode-bot/issues"
+    "url": "https://github.com/pcodex"
   },
-  "homepage": "https://github.com/ajukco/100daysofcode-bot#readme"
+  "homepage": "https://github.com/pcodex"
 }
