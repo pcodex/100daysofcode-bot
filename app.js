@@ -10,7 +10,7 @@ const params = {
   lang: 'en'
 }
 
-// Initiate your search using the above paramaters
+// Initiate your search using the above parameters
 T.get('search/tweets', params, (err, data, response) => {
   // If there is no error, proceed
   if(err){
